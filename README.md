@@ -4,7 +4,7 @@ I am developing an open-source GUI login forum in Python, equipped with a from s
 ## VIDEO DEMONSTRATION
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MN-zepaJXXM/0.jpg)](https://www.youtube.com/watch?v=MN-zepaJXXM)
 
-## Requirements:
+## REQUIREMENTS:
 1st - /cd into the folder where your 'requirements.txt' is located
 
 2nd - Run this in the terminal: 'pip install -r requirements.txt'
