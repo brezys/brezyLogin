@@ -4,6 +4,11 @@ I am developing an open-source GUI login forum in Python, equipped with a from s
 ## VIDEO DEMONSTRATION
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MN-zepaJXXM/0.jpg)](https://www.youtube.com/watch?v=MN-zepaJXXM)
 
+## Requirements:
+1st - /cd into the folder where your 'requirements.txt' is located
+
+2nd - Run this in the terminal: 'pip install -r requirements.txt'
+
 ## SET UP
 1st - /cd into the folder and run the 'createDatabase.py' script and if you see a 'ttsdatabase.db' file spawn then you're good.
 
